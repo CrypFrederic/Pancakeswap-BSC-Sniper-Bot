@@ -1,7 +1,7 @@
 # 🚀 Pancakeswap BSC Sniper Bot 🚀
 
 
-## [ENGLISH](https://github.com/CrypFrederic/Pancakeswap-BSC-Sniper-Bot/blob/main/README_EN.md)  |  [简体中文](https://github.com/CrypFrederic/Pancakeswap-BSC-Sniper-Bot/blob/main/README_ZH.md) 
+## [ENGLISH](https://github.com/CrypFrederic/Pancakeswap-BSC-Sniper-Bot/blob/main/README.md)  |  [简体中文](https://github.com/CrypFrederic/Pancakeswap-BSC-Sniper-Bot/blob/main/README_ZH.md) 
 ---------
 
 
