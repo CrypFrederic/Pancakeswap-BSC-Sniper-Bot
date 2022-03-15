@@ -4,7 +4,7 @@
 ## [ENGLISH](https://github.com/CrypFrederic/Pancakeswap-BSC-Sniper-Bot/blob/main/README.md)  |  [简体中文](https://github.com/CrypFrederic/Pancakeswap-BSC-Sniper-Bot/blob/main/README_ZH.md) 
 ---------
 
-
+##example.env.bsc重命名为.env.bsc
 ![donghua](https://github.com/CrypFrederic/image1/blob/main/md/donghua.gif)
 
 
