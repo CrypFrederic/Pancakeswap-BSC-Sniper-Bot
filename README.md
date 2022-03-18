@@ -6,7 +6,7 @@
 
 
 ## PLS rename example.env.bsc to .env.bsc
-![donghua](https://github.com/CrypFrederic/image1/blob/main/md/donghua.gif)
+![gif](https://github.com/CrypFrederic/image1/blob/main/md/gif.gif)
 
 
 
